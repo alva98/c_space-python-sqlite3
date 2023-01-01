@@ -1,3 +1,5 @@
+# ensayo de juego usando pygame
+import pygame
 
 # Haikus for Codespaces
 
